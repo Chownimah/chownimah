@@ -17,8 +17,7 @@ const AboutComponent = () => {
               </div>
             </div>
             <div className="desc">
-              <p>The Goodest Boi in the world is coming to BASE</p>
-              <p>What else needs to be said?</p>
+              <p>The Goodest Boi in the world is coming to Solana!</p>
             </div>
             <div className="buttons">
               <Link legacyBehavior href="/about">

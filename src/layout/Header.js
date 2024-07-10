@@ -58,7 +58,7 @@ const Header = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="https://t.me/chow_nimah">
                     <i>
                       <img src="svg/telegram.svg" alt="" className="fn__svg" />
                     </i>

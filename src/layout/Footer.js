@@ -17,10 +17,16 @@ const Footer = () => {
                   />
                 </div>
                 <h3 className="fn_title">Buy Chow Nimah now!</h3>
+                <p>Ticker:</p>
                 <p>CA:</p>
-                <a href="/" className="fn_desc">
+                <p>
+                  Buy Now:
+                  <a href="/" className="fn_desc" />
+                </p>
+                <p>
                   Chart:
-                </a>
+                  <a href="/" className="fn_desc" />
+                </p>
               </div>
             </div>
           </div>

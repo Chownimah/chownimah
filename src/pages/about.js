@@ -23,8 +23,7 @@ const About = () => {
                   </div>
                 </div>
                 <div className="desc">
-                  <p>The Goodest Boi in the world is coming to BASE</p>
-                  <p>What else needs to be said?</p>
+                  <p>The Goodest Boi in the world is coming to Solana!</p>
                 </div>
                 <div className="buttons">
                   <a
@@ -43,7 +42,7 @@ const About = () => {
                     <span className="text">Twitter</span>
                   </a>
                   <a
-                    href="https://web.telegram.org/"
+                    href="https://t.me/chow_nimah"
                     target="_blank"
                     rel="noreferrer"
                     className="neoh_fn_button"
@@ -58,43 +57,40 @@ const About = () => {
             </div>
             {/* !About Item #1 */}
             {/* Guarantee List */}
-            {/* <div className="neoh_fn_gualist">
+            <div className="neoh_fn_gualist">
               <ul>
                 <li>
                   <div className="item">
                     <span className="line" />
-                    <img
-                      src="svg/search-engine.svg"
-                      alt=""
-                      className="fn__svg"
-                    />
-                    <h3 className="fn_title">Anti-Rug</h3>
-                    <p className="fn_desc fn_animated_text">Liquidity Burnt</p>
+                    <img src="svg/checked.svg" alt="" className="fn__svg" />
+                    <h3 className="fn_title">Liquidity Burned</h3>
+                    <h3 className="fn_title">Authorities Revoked</h3>
+                    {/* <p className="fn_desc fn_animated_text">Liquidity Burnt</p> */}
                   </div>
                 </li>
                 <li>
                   <div className="item">
                     <span className="line" />
-                    <img src="svg/management.svg" alt="" className="fn__svg" />
-                    <h3 className="fn_title">Experienced Team</h3>
-                    <p className="fn_desc fn_animated_text">
+                    <img src="svg/checked.svg" alt="" className="fn__svg" />
+                    <h3 className="fn_title">Tax 0/0</h3>
+                    {/* <p className="fn_desc fn_animated_text">
                       Team has been part of multiple successful projects
-                    </p>
+                    </p> */}
                   </div>
                 </li>
                 <li>
                   <div className="item">
                     <span className="line" />
-                    <img src="svg/padlock.svg" alt="" className="fn__svg" />
-                    <h3 className="fn_title">Security Guarantee</h3>
-                    <p className="fn_desc fn_animated_text">
+                    <img src="svg/checked.svg" alt="" className="fn__svg" />
+                    <h3 className="fn_title">Fair Launch</h3>
+                    {/* <p className="fn_desc fn_animated_text">
                       Based on the simplest ERC20 OpenZeppelin contract. There
                       are no mint or ownership functions
-                    </p>
+                    </p> */}
                   </div>
                 </li>
               </ul>
-            </div> */}
+            </div>
             {/* !Guarantee List */}
             {/* About Item #2 */}
             <div className="neoh_fn_about_item reverse">
@@ -109,11 +105,10 @@ const About = () => {
                   </div>
                 </div>
                 <div className="desc">
-                  <p>Launching on BASE</p>
+                  <p>Launching on Solana</p>
                   <p>1B Total Supply</p>
-                  <p>5% will be allocated to the Team</p>
-                  <p>10% set aside for Community</p>
-                  <p>85% LP</p>
+                  <p>3% Team</p>
+                  <p>97% LP</p>
                 </div>
               </div>
             </div>

@@ -1,5 +1,6 @@
 import { Fragment, useState } from "react";
 import ProductPopup from "./popup/ProductPopup";
+import Timeline from "./Timeline";
 
 const Drops = () => {
   const [toggle, setToggle] = useState(false);
@@ -117,6 +118,7 @@ const Drops = () => {
             <div className="clearfix" />
           </div>
           {/* !Drops List */}
+          <Timeline />
         </div>
       </section>
       {/* !Drops Section */}

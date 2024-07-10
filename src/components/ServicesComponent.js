@@ -33,9 +33,9 @@ const ServicesComponent = () => {
                 <div className="item_content">
                   <h3 className="fn_title">Create Wallet</h3>
                   <p className="fn_desc fn_animated_text">
-                    Download Metamask or any wallet of your choice from Google
-                    Chrome Extension. Create a new wallet and make sure you keep
-                    your seed phrase safe!
+                    Download Phantom wallet or any wallet of your choice from
+                    Google Chrome Extension. Create a new wallet and make sure
+                    you keep your seed phrase safe!
                   </p>
                 </div>
               </div>
@@ -46,11 +46,10 @@ const ServicesComponent = () => {
                   <span>02</span>
                 </div>
                 <div className="item_content">
-                  <h3 className="fn_title">Buy ETH</h3>
+                  <h3 className="fn_title">Buy SOL</h3>
                   <p className="fn_desc fn_animated_text">
-                    Buy ETH from any of the CEX and fund your wallet or buy
-                    using Debit/Credit card on Metamask directly. Make sure the
-                    ETH is on BASE network.
+                    Buy SOL from any of the CEX and fund your wallet or buy
+                    using MoonPay/Coinbase Onramp on Phantom Wallet directly
                   </p>
                 </div>
               </div>
@@ -61,11 +60,11 @@ const ServicesComponent = () => {
                   <span>03</span>
                 </div>
                 <div className="item_content">
-                  <h3 className="fn_title">Swap on Uniswap</h3>
+                  <h3 className="fn_title">Swap on Raydium</h3>
                   <p className="fn_desc fn_animated_text">
-                    Go to Uniswap, paste the $CHOW contract address and swap
-                    your ETH for $CHOW and you are done! Make sure to leave some
-                    ETH for gas!
+                    Go to Raydium, paste our contract address and swap your SOL
+                    for us and you are done! Make sure to leave some SOL for
+                    gas!
                   </p>
                 </div>
               </div>
@@ -79,8 +78,8 @@ const ServicesComponent = () => {
                   <h3 className="fn_title">Join our Community</h3>
                   <p className="fn_desc fn_animated_text">
                     Make sure to join our Telegram and Twitter communities,
-                    actively engage with us, and help us become the number one
-                    dog meme on BASE!
+                    actively engage with us, and help us become one of top dog
+                    memes on Solana!
                   </p>
                 </div>
               </div>
