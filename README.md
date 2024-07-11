@@ -1,2 +1,1 @@
-# shibpepe
 # chownimah
