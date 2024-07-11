@@ -121,9 +121,10 @@ const Timeline = () => {
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                    We will be launching a GambleFi Tournament Project that
-                    requires our Chow Nimah tokens to participate. Additionally,
-                    the Chow Nimah NFT collection will also be launched!
+                    We will be launching a GambleFi Tournament Project and
+                    airdropping 80% of its supply to $CHOW Holders.
+                    Additionally, the Chow Nimah NFT collection will also be
+                    launched!
                   </p>
                   <p>More details will be out soon!</p>
                   {/* <p className="fn_read">
@@ -162,48 +163,47 @@ const Timeline = () => {
                 </div>
               </div>
             </li>
-            {/* <li className={`timeline_item ${activeClass(5)}`} data-index={5}>
+            <li className={`timeline_item ${activeClass(5)}`} data-index={5}>
               <div className="t_item">
                 <div className="t_item_img">
                   <div className="neoh_fn_gallery_1_2">
                     <div className="gallery_in">
                       <div className="item row2">
-                        <img src="img/timeline/5/1.jpg" alt="" />
+                        <img src="img/timeline/5/dogshelter.webp" alt="" />
                       </div>
-                      <div className="item">
+                      {/* <div className="item">
                         <img src="img/timeline/5/2.jpg" alt="" />
                       </div>
                       <div className="item">
                         <img src="img/timeline/5/3.jpg" alt="" />
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>
                 <div className="t_item_info">
                   <p className="fn_date">
-                    <span>June 15, 2022</span>
+                    <span>October 10, 2024</span>
                   </p>
                   <h3 className="fn_title">
-                    <Link legacyBehavior href="/roadmap-single">
-                      New Spirit Set #01 is Coming Up
+                    <Link legacyBehavior href="/">
+                      Donations to Animal Shelters
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                    Morbi non dignissim erat, a blandit felis. Suspendisse nec
-                    lorem vel orci varius congue ut vitae est. Nam quis tempus
-                    nisl. Fusce posuere nibh a mi molestie, sit amet ornare
-                    lectus interdum.
+                    We will be raising funds from $CHOW holders, the public, and
+                    the community to support animal shelters. All funds raised
+                    and their deployment will be completely transparent
                   </p>
                   <p className="fn_read">
-                    <Link legacyBehavior href="/roadmap-single">
+                    {/* <Link legacyBehavior href="/roadmap-single">
                       <a className="neoh_fn_button only_text">
                         <span className="text">Read More</span>
                       </a>
-                    </Link>
+                    </Link> */}
                   </p>
                 </div>
               </div>
-            </li> */}
+            </li>
             {/* <li className={`timeline_item ${activeClass(6)}`} data-index={6}>
               <div className="t_item">
                 <div className="t_item_img">
@@ -362,15 +362,15 @@ const Timeline = () => {
                     />
                   </a>
                 </li>
-                {/* <li className={activeClass(5)}>
+                <li className={activeClass(5)}>
                   <a onClick={() => onClick(5)}>
-                    <span className="text">August 22, 2024</span>
+                    <span className="text">October 10, 2024</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(5)}%)` }}
                     />
                   </a>
-                </li> */}
+                </li>
                 {/* <li className={activeClass(6)}>
                   <a onClick={() => onClick(6)}>
                     <span className="text">June 23, 2022</span>
