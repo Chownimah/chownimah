@@ -11,7 +11,7 @@ const AboutComponent = () => {
           </div>
           <div className="content_item">
             <div className="neoh_fn_title" data-align="left">
-              <h3 className="fn_title">Chow Nimah</h3>
+              <h3 className="fn_title">Chow Nima Debby</h3>
               <div className="line">
                 <span />
               </div>
@@ -22,7 +22,7 @@ const AboutComponent = () => {
             <div className="buttons">
               <Link legacyBehavior href="/about">
                 <a className="neoh_fn_button only_text">
-                  <span className="text">More About US</span>
+                  <span className="text">More About Us</span>
                 </a>
               </Link>
             </div>

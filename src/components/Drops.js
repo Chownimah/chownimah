@@ -8,17 +8,17 @@ const Drops = () => {
   const dropData = [
     {
       img: "img/drops/comingsoon.png",
-      title: "Chow Nimah #1",
+      title: "Chow Nima #1",
       dec: "Coming Soon!",
     },
     {
       img: "img/drops/comingsoon.png",
-      title: "Chow Nimah #2",
+      title: "Chow Nima #2",
       dec: "Coming Soon!",
     },
     {
       img: "img/drops/comingsoon.png",
-      title: "Chow Nimah #3",
+      title: "Chow Nima #3",
       dec: "Coming Soon!",
     },
   ];
@@ -57,7 +57,7 @@ const Drops = () => {
                 <div
                   className="item"
                   data-modal-image="img/drops/comingsoon.png"
-                  data-modal-title="NChow Nimah #1"
+                  data-modal-title="Chow Nima #1"
                   data-modal-description="Coming Soon!"
                   data-modal-opensea-url="#"
                   data-modal-discord-url=""
@@ -68,7 +68,7 @@ const Drops = () => {
                   </div>
                   <div className="title_holder">
                     <h3 className="fn_title">
-                      <a onClick={() => onClick(1)}>Chow Nimah #1</a>
+                      <a onClick={() => onClick(1)}>Chow Nima Debby #1</a>
                     </h3>
                   </div>
                 </div>
@@ -77,7 +77,7 @@ const Drops = () => {
                 <div
                   className="item"
                   data-modal-image="img/drops/comingsoon.png"
-                  data-modal-title="Chow Nimah #2"
+                  data-modal-title="Chow Nima #2"
                   data-modal-description="Coming Soon!"
                   data-modal-opensea-url=""
                   data-modal-discord-url="#"
@@ -88,7 +88,7 @@ const Drops = () => {
                   </div>
                   <div className="title_holder">
                     <h3 className="fn_title">
-                      <a onClick={() => onClick(2)}>Chow Nimah #2</a>
+                      <a onClick={() => onClick(2)}>Chow Nima Debby #2</a>
                     </h3>
                   </div>
                 </div>
@@ -97,7 +97,7 @@ const Drops = () => {
                 <div
                   className="item"
                   data-modal-image="img/drops/comingsoon.png"
-                  data-modal-title="Chow Nimah #3"
+                  data-modal-title="Chow Nima #3"
                   data-modal-description="Coming Soon!"
                   data-modal-opensea-url="#"
                   data-modal-discord-url=""
@@ -108,7 +108,7 @@ const Drops = () => {
                   </div>
                   <div className="title_holder">
                     <h3 className="fn_title">
-                      <a onClick={() => onClick(3)}>Chow Nimah #3</a>
+                      <a onClick={() => onClick(3)}>Chow Nima Debby #3</a>
                     </h3>
                   </div>
                 </div>

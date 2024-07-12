@@ -13,7 +13,7 @@ const Timeline = () => {
     <Fragment>
       {/* Main Title */}
       <div className="neoh_fn_title">
-        <h3 className="fn_title">Chow Nimah Roadmap</h3>
+        <h3 className="fn_title">Chow Nima Debby Roadmap</h3>
         <div className="line">
           <span />
         </div>
@@ -43,7 +43,7 @@ const Timeline = () => {
                 </div>
                 <div className="t_item_info">
                   <p className="fn_date">
-                    <span>July 12, 2024</span>
+                    <span>July 14, 2024</span>
                   </p>
                   <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
@@ -122,9 +122,9 @@ const Timeline = () => {
                   </h3>
                   <p className="fn_desc">
                     We will be launching a GambleFi Tournament Project and
-                    airdropping 80% of its supply to $CHOW Holders.
-                    Additionally, the Chow Nimah NFT collection will also be
-                    launched!
+                    airdropping 80% of its supply to $NIMA Holders.
+                    Additionally, the Chow Nima Debby NFT collection will also
+                    be launched!
                   </p>
                   <p>More details will be out soon!</p>
                   {/* <p className="fn_read">
@@ -190,7 +190,7 @@ const Timeline = () => {
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                    We will be raising funds from $CHOW holders, the public, and
+                    We will be raising funds from $NIMA holders, the public, and
                     the community to support animal shelters. All funds raised
                     and their deployment will be completely transparent
                   </p>
@@ -328,7 +328,7 @@ const Timeline = () => {
               <ul>
                 <li className={activeClass(1)}>
                   <a onClick={() => onClick(1)}>
-                    <span className="text">July 12, 2024</span>
+                    <span className="text">July 14, 2024</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(1)}%)` }}

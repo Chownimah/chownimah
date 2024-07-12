@@ -17,7 +17,7 @@ const About = () => {
               </div>
               <div className="content_item">
                 <div className="neoh_fn_title" data-align="left">
-                  <h3 className="fn_title">Chow Nimah </h3>
+                  <h3 className="fn_title">Chow Nima Debby</h3>
                   <div className="line">
                     <span />
                   </div>
@@ -27,7 +27,7 @@ const About = () => {
                 </div>
                 <div className="buttons">
                   <a
-                    href="https://x.com/ChowNimah"
+                    href="https://x.com/Chow_Nima"
                     target="_blank"
                     rel="noreferrer"
                     className="neoh_fn_button"
@@ -42,7 +42,7 @@ const About = () => {
                     <span className="text">Twitter</span>
                   </a>
                   <a
-                    href="https://t.me/chow_nimah"
+                    href="https://t.me/chow_nima"
                     target="_blank"
                     rel="noreferrer"
                     className="neoh_fn_button"

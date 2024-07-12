@@ -16,8 +16,8 @@ const Footer = () => {
                     width="100"
                   />
                 </div>
-                <h3 className="fn_title">Buy Chow Nimah now!</h3>
-                <p>Ticker:</p>
+                <h3 className="fn_title">Buy Chow Nima Debby Now!</h3>
+                <p>Ticker: $NIMA</p>
                 <p>CA:</p>
                 <p>
                   Buy Now:
@@ -37,7 +37,7 @@ const Footer = () => {
           <div className="container">
             <div className="fb_in">
               <div className="fb_left">
-                <p>Copyright {new Date().getFullYear()} - By Chow Nimah</p>
+                <p>Copyright {new Date().getFullYear()} - By Chow Nima Debby</p>
               </div>
               <div className="fb_right">
                 <ul>

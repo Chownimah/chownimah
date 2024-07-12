@@ -41,13 +41,13 @@ const Header = () => {
         {/* Nav Footer */}
         <div className={`nav_footer ${toggle ? "ready" : ""}`}>
           <div className="nf_left">
-            <p>Copyright {new Date().getFullYear()}- By Chow Nimah</p>
+            <p>Copyright {new Date().getFullYear()}- By Chow Nyima Debby</p>
           </div>
           <div className="nf_right">
             <div className="neoh_fn_social_list">
               <ul>
                 <li>
-                  <a href="https://x.com/ChowNimah">
+                  <a href="https://x.com/Chow_Nima">
                     <i>
                       <img
                         src="svg/square-x-twitter.svg"
@@ -58,7 +58,7 @@ const Header = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="https://t.me/chow_nimah">
+                  <a href="https://t.me/chow_nima">
                     <i>
                       <img src="svg/telegram.svg" alt="" className="fn__svg" />
                     </i>
