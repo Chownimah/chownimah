@@ -24,7 +24,7 @@ const Layout = ({ children, pageName }) => {
   return (
     <Fragment>
       <Head>
-        <title>Chow Nimah | {pageName}</title>
+        <title>Chow Nima Debby| {pageName}</title>
       </Head>
       <div className="neoh_fn_main" data-footer-sticky="">
         <Header />

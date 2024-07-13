@@ -23,7 +23,11 @@ const About = () => {
                   </div>
                 </div>
                 <div className="desc">
-                  <p>The Goodest Boi in the world is coming to Solana!</p>
+                  <p>
+                    Hi, I'm Chow Nima Debby, a Chowmoyed (Samoyed Chow Chow Mix)
+                    and the goodest boi in the world. Follow me for adorable
+                    photos and videos!
+                  </p>
                 </div>
                 <div className="buttons">
                   <a

@@ -16,6 +16,7 @@
 /*------------------------------------------------------------------*/
 :root{
 	--sbc: #0a0a0a;
+	/* --sbc: #0a0a0a; */
 	/* --mc: #78f701; */ 
 	/* this is the color of the hover over button feature */
 	--mc: #000080; 
@@ -334,6 +335,7 @@ a.full_link{
 }
 .neoh_fn_hero .bg_color{
 	background-color: rgba(0,0,0,0.85);
+
 }
 
 
