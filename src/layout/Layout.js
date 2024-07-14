@@ -24,7 +24,7 @@ const Layout = ({ children, pageName }) => {
   return (
     <Fragment>
       <Head>
-        <title>Chow Nima Debby| {pageName}</title>
+        <title>Chow Nima Debby | {pageName}</title>
       </Head>
       <div className="neoh_fn_main" data-footer-sticky="">
         <Header />
@@ -32,7 +32,6 @@ const Layout = ({ children, pageName }) => {
         <Footer />
         <ScrollTop />
       </div>
-
       <div className="neoh_fn_moving_box"></div>
     </Fragment>
   );

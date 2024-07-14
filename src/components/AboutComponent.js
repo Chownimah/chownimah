@@ -56,6 +56,22 @@ const AboutComponent = () => {
             </div> */}
           </div>
         </div>
+        <div className="neoh_fn_about_item reverse">
+          <div className="img_item">
+            <img src="img/about/angry.png" alt="" />
+          </div>
+          <div className="img_item">
+            <img src="img/about/fun.gif" alt="" />
+          </div>
+        </div>
+        <div className="neoh_fn_about_item reverse">
+          <div className="img_item">
+            <img src="img/about/happy.gif" alt="" />
+          </div>
+          <div className="img_item">
+            <img src="img/about/sad.png" alt="" />
+          </div>
+        </div>
       </div>
     </section>
   );

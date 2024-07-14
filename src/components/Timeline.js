@@ -43,7 +43,7 @@ const Timeline = () => {
                 </div>
                 <div className="t_item_info">
                   <p className="fn_date">
-                    <span>July 14, 2024</span>
+                    <span>July 15, 2024</span>
                   </p>
                   <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
@@ -328,7 +328,7 @@ const Timeline = () => {
               <ul>
                 <li className={activeClass(1)}>
                   <a onClick={() => onClick(1)}>
-                    <span className="text">July 14, 2024</span>
+                    <span className="text">July 15, 2024</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(1)}%)` }}
