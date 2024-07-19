@@ -17,15 +17,34 @@ const Footer = () => {
                   />
                 </div>
                 <h3 className="fn_title">Buy Chow Nima Debby Now!</h3>
-                <p>Ticker: $NIMA</p>
-                <p>CA:</p>
+                <p>Ticker: DEBBY</p>
+                <p>CA: EsoYWSH8HU3p4rzovbuGzQkQwYsTuczMPeK4hoPozsEC</p>
                 <p>
-                  Buy Now:
-                  <a href="/" className="fn_desc" />
+                  Buy Now:{" "}
+                  <a
+                    href="https://raydium.io/swap/?inputMint=sol&outputMint=EsoYWSH8HU3p4rzovbuGzQkQwYsTuczMPeK4hoPozsEC"
+                    className="fn_desc"
+                  >
+                    Raydium
+                  </a>
                 </p>
                 <p>
-                  Chart:
-                  <a href="/" className="fn_desc" />
+                  Chart:{" "}
+                  <a
+                    href="https://dexscreener.com/solana/5bmyfcqrsfgznzbqulqem1zabgldqyprtem3kg4zt2fy"
+                    className="fn_desc"
+                  >
+                    Dexscreener
+                  </a>
+                </p>
+                <p>
+                  Chart:{" "}
+                  <a
+                    href="https://birdeye.so/token/EsoYWSH8HU3p4rzovbuGzQkQwYsTuczMPeK4hoPozsEC?chain=solana"
+                    className="fn_desc"
+                  >
+                    Birdeye
+                  </a>
                 </p>
               </div>
             </div>

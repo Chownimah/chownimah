@@ -43,7 +43,7 @@ const Timeline = () => {
                 </div>
                 <div className="t_item_info">
                   <p className="fn_date">
-                    <span>July 15, 2024</span>
+                    <span>July 17, 2024</span>
                   </p>
                   <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
@@ -74,7 +74,7 @@ const Timeline = () => {
                 </div>
                 <div className="t_item_info">
                   <p className="fn_date">
-                    <span>July 25, 2024</span>
+                    <span>August 1, 2024</span>
                   </p>
                   <h3 className="fn_title">
                     <Link legacyBehavior href="/">
@@ -122,7 +122,7 @@ const Timeline = () => {
                   </h3>
                   <p className="fn_desc">
                     We will be launching a GambleFi Tournament Project and
-                    airdropping 80% of its supply to $NIMA Holders.
+                    airdropping 80% of its supply to DEBBY Holders.
                     Additionally, the Chow Nima Debby NFT collection will also
                     be launched!
                   </p>
@@ -190,7 +190,7 @@ const Timeline = () => {
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                    We will be raising funds from $NIMA holders, the public, and
+                    We will be raising funds from DEBBY holders, the public, and
                     the community to support animal shelters. All funds raised
                     and their deployment will be completely transparent
                   </p>
@@ -328,7 +328,7 @@ const Timeline = () => {
               <ul>
                 <li className={activeClass(1)}>
                   <a onClick={() => onClick(1)}>
-                    <span className="text">July 15, 2024</span>
+                    <span className="text">July 17, 2024</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(1)}%)` }}
@@ -337,7 +337,7 @@ const Timeline = () => {
                 </li>
                 <li className={activeClass(2)}>
                   <a onClick={() => onClick(2)}>
-                    <span className="text">July 25, 2024</span>
+                    <span className="text">August 1, 2024</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(2)}%)` }}

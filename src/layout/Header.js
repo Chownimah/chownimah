@@ -41,7 +41,7 @@ const Header = () => {
         {/* Nav Footer */}
         <div className={`nav_footer ${toggle ? "ready" : ""}`}>
           <div className="nf_left">
-            <p>Copyright {new Date().getFullYear()}- By Chow Nyima Debby</p>
+            <p>Copyright {new Date().getFullYear()}- By Chow Nima Debby</p>
           </div>
           <div className="nf_right">
             <div className="neoh_fn_social_list">

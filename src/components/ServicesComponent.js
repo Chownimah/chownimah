@@ -63,7 +63,7 @@ const ServicesComponent = () => {
                   <h3 className="fn_title">Swap on Raydium</h3>
                   <p className="fn_desc fn_animated_text">
                     Go to Raydium, paste our contract address and swap your SOL
-                    for us and you are done! Make sure to leave some SOL for
+                    for DEBBY and you are done! Make sure to leave some SOL for
                     gas!
                   </p>
                 </div>
